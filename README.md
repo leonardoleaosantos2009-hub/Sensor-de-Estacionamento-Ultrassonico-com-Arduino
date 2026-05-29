@@ -17,6 +17,9 @@ O sistema opera em 4 zonas de segurança baseadas na distância do obstáculo:
 
 ---
 
+
+**Link do Vídeo:** https://drive.google.com/drive/folders/1ihRfC0cPYGw1mbDcGVSqGq4j13_uY0lj?usp=sharing
+
 ![Foto do Circuíto](./Circuíto.jpg)
 
 ## 🛠️ Componentes Utilizados
