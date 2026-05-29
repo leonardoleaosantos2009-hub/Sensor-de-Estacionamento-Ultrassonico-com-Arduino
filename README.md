@@ -23,9 +23,9 @@ O sistema opera em 4 zonas de segurança baseadas na distância do obstáculo:
 
 **Link do Projeto Online:** https://www.tinkercad.com/things/jXov5wKZsZ2-sensor-de-proximidade?sharecode=Jy5BsOOHGrGVhCOj4p9leXUyu9XjImgnWtTkStT-PAE
 
----
-
 ![Foto do Circuíto](./Circuíto.jpg)
+
+---
 
 ## 🛠️ Componentes Utilizados
 
