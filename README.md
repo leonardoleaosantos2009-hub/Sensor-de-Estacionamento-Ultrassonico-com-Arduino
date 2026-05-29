@@ -17,11 +17,11 @@ O sistema opera em 4 zonas de segurança baseadas na distância do obstáculo:
 
 ---
 
+## 🗺️ Esquema do Circuito
 
 **Link do Vídeo:** https://drive.google.com/drive/folders/1ihRfC0cPYGw1mbDcGVSqGq4j13_uY0lj?usp=sharing
 
 **Link do Projeto Online:** https://www.tinkercad.com/things/jXov5wKZsZ2-sensor-de-proximidade?sharecode=Jy5BsOOHGrGVhCOj4p9leXUyu9XjImgnWtTkStT-PAE
-
 
 ---
 
