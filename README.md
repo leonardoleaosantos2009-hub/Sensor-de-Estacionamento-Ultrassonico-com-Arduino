@@ -17,6 +17,8 @@ O sistema opera em 4 zonas de segurança baseadas na distância do obstáculo:
 
 ---
 
+![Foto do Circuíto](./Circuíto.jpg)
+
 ## 🛠️ Componentes Utilizados
 
 * 1x Arduino UNO (ou compatível)
